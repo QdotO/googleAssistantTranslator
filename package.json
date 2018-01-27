@@ -1,0 +1,14 @@
+{
+  "name": "google_translator",
+  "version": "1.0.0",
+  "description": "Translate to help with fullfillment from Google Assistant",
+  "main": "clientTranslator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quincy Obeng",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.141.0"
+  }
+}
